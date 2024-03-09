@@ -1,0 +1,127 @@
+/* Add your styles here
+
+div {
+  max-width:400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+p {
+  margin-top: 10px;
+  text-align: center;
+}
+
+Link {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+Link:hover {
+  text-decoration: underline;
+} */
+
+
+/* Style for the container */
+.login-container {
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+/* Style for the headings */
+.login-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Style for the form */
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style for the form labels */
+.login-form label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+/* Style for the input fields */
+.login-form input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Style for the submit button */
+.login-form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Style for the submit button on hover */
+.login-form button:hover {
+  background-color: #0056b3;
+}
+
+/* Style for the link to sign up */
+.login-form p {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* Style for the link text */
+.login-form p a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+/* Style for the link text on hover */
+.login-form p a:hover {
+  text-decoration: underline;
+}

@@ -2,3 +2,5 @@
 "# pizza_order-frontend" 
 "# pizza_order-frontend" 
 "# pizza_order_frontend" 
+"# pizza_deliver_frontend" 
+"# pizza_deliver_frontend" 
